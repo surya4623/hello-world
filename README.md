@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi guys!
+ surya here,i like linux and shell script
